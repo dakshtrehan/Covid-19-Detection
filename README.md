@@ -1,5 +1,5 @@
 # Covid-19-Detection
-The aim is to caption newly feeded images.
+The aim is to help medical practitioners helping us in battle against COVID-19 by easing the task of manual testing using Deep Learing.
 
     Problem type :- Supervised
     Algorithms used :- CNN
