@@ -1,5 +1,5 @@
 # Covid-19-Detection
-### Reach me out at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan ||
+### Reach me out at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan || www.medium.com/@dakshtrehan
 
 The aim is to help medical practitioners helping us in battle against COVID-19 by easing the task of manual testing using Deep Learing.
 
