@@ -11,3 +11,5 @@ The aim is to help medical practitioners helping us in battle against COVID-19 b
 
 Normal X-ray data can be extracted through kaggle link using OS module. Don't forget to stratify the data as it will help to get better results.
 Detailed explanation for model can be found at :- https://medium.com/@dakshtrehan/detecting-covid-19-using-deep-learning-262956b6f981
+
+#Add more photos!
